@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Coming Soon!
+
+Willkommen auf der Seite von Learning New Learning. Hier werden in Zukunft aktuelle Informationen zum Vorhaben dargestellt. Zur Zeit finden die ersten Veranstaltungen statt. Zur Registrierung geht es unter: [/events](https://learning-new-learning.de/)
 
 You can use the [editor on GitHub](https://github.com/reinerschristopher/learning-new-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
